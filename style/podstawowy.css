@@ -5,4 +5,9 @@ body
 	background: url("/obrazy/tlo.png") no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
+	color: white;
+}
+h1
+{
+	margin: 0;
 }
